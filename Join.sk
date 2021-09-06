@@ -1,0 +1,2 @@
+on join:
+	send "%player%" to bungeecord server "Main"
